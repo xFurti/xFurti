@@ -7,10 +7,9 @@
 
 ### `< Developer />` &nbsp;•&nbsp; 🎓 Student &nbsp;•&nbsp; 🤖 AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+stuff+with+code+and+AI;Student+%40+ITIS+Guglielmo+Marconi;Always+learning%2C+always+building;Powered+by+curiosity+%26+caffeine+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+stuff+with+code+and+AI;Student+%40+ITIS+Guglielmo+Marconi;Always+learning%2C+always+building;Powered+by+curiosity+%26+redbull+%E2%98%95" alt="Typing SVG" />
 
 </div>
-
 ---
 
 ## 🚀 About Me
