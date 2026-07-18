@@ -53,6 +53,7 @@ class Leonardo:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -65,11 +66,13 @@ class Leonardo:
 The AI tools I use daily to code faster, learn smarter and create cooler things:
 
 <div align="center">
-
+    
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GLM](https://img.shields.io/badge/GLM-1A1A2E?style=for-the-badge&logo=zhihu&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Codex](https://custom-icon-badges.demolab.com/badge/Codex-202123?style=for-the-badge&logo=chatgpt&logoColor=white)
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=chatgpt&logoColor=white)
+![Pi-Pagent](https://img.shields.io/badge/Pi--Pagent-31572C?style=for-the-badge&logo=pi&logoColor=white)
+![Grok](https://custom-icon-badges.demolab.com/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 
 </div>
 
@@ -78,9 +81,9 @@ The AI tools I use daily to code faster, learn smarter and create cooler things:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xFurti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFurti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" />
+    
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=xFurti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xFurti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" />
 
 </div>
 
@@ -104,7 +107,7 @@ The AI tools I use daily to code faster, learn smarter and create cooler things:
 
 [![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bassa_dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.bassa_/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xFurti)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/leonardo-bassanello/)
 
 </div>
 
