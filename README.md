@@ -7,7 +7,7 @@
 
 ### `< Developer />` &nbsp;•&nbsp; 🎓 Student &nbsp;•&nbsp; 🤖 AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+stuff+with+code+and+AI;Student+%40+ITIS+Guglielmo+Marconi;Always+learning%2C+always+building;Powered+by+curiosity+%26+redbull+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+stuff+with+code+and+AI;Student+%40+Liceo+Tecnologico+Guglielmo+Marconi;Always+learning%2C+always+building;Powered+by+curiosity+%26+redbull+%E2%98%95" alt="Typing SVG" />
 
 </div>
 ---
@@ -19,7 +19,7 @@ class Leonardo:
     def __init__(self):
         self.name        = "Leonardo"
         self.role        = ["Developer", "Student"]
-        self.school      = "ITIS Guglielmo Marconi, Verona 🇮🇹"
+        self.school      = "Liceo Tecnologico Guglielmo Marconi, Verona 🇮🇹"
         self.passion     = "Artificial Intelligence 🤖"
         self.mindset     = "Always curious, always building"
 
@@ -27,7 +27,7 @@ class Leonardo:
         return ["Coding cool projects", "Exploring AI tools", "Learning everyday"]
 ```
 
-- 🔭 &nbsp;I'm a **developer** and a **student** at *ITIS Guglielmo Marconi* in Verona
+- 🔭 &nbsp;I'm a **developer** and a **student** at *Liceo Tecnologico Guglielmo Marconi* in Verona
 - 🤖 &nbsp;Deeply into **Artificial Intelligence** — love experimenting with new AI tools
 - 🌱 &nbsp;Currently leveling up my skills across multiple languages & frameworks
 - ⚡ &nbsp;Fun fact: I let AI handle the boring parts so I can focus on the cool ideas
