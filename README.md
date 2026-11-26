@@ -73,6 +73,8 @@ The AI tools I use daily to code faster, learn smarter and create cooler things:
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=chatgpt&logoColor=white)
 ![Pi-Pagent](https://img.shields.io/badge/Pi--Pagent-31572C?style=for-the-badge&logo=pi&logoColor=white)
 ![Grok](https://custom-icon-badges.demolab.com/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=claude&logoColor=white)
 
 </div>
 
